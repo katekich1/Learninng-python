@@ -1,2 +1,2 @@
-# Learninng-python
+# Learning-python
 100 projek

@@ -1,2 +1,2 @@
 # Learning-python
-100 projek
+go to 100 projek python

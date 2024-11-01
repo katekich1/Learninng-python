@@ -1,3 +1,6 @@
 jumlah = 0
-for x in range (5):
-    print (x + 1)
+for i in range (1,6):
+    print (i)
+    jumlah += i
+print('_+')
+print(jumlah)

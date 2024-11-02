@@ -1,6 +1,6 @@
 print("="*30)
-print('\tHITUNG LUAS LIMAS SEGITIGA')
-("="*30)
+print('HITUNG LUAS LIMAS SEGITIGA')
+print("="*30)
 
 alas = int(input("Masukan nilai alas\t: "))
 tinggi = int(input("Masukan nilai tinggi\t: "))

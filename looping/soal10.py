@@ -1,2 +1,4 @@
-for x in range (6):
-    print ('a', end=" ")
+for j in range(5):
+    for i in range(5):
+        print("a", end=" ")
+    print()

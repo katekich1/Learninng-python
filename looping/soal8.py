@@ -1,8 +1,8 @@
 jumlah = 0
-for x in range (1,11,2):
-    if x <10:
-        print(x,end=" + ")
+for h in range (2,12,2):
+    if h < 10:
+        print(h, end=' + ')
     else:
-        print(x,end=" = ")
-    jumlah = jumlah + (x)
+        print(h, end=' = ')
+    jumlah = jumlah + (h)
 print(jumlah)

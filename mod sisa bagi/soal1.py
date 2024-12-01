@@ -1,6 +1,6 @@
 angka = int(input("Masukkan sebuah angka: "))
 
 if angka % 2 == 0:
-    print("Genap")
+    print("Angka tersebut genap.")
 else:
-    print("Ganjil")
+    print("Angka tersebut ganjil.")
